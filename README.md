@@ -1,4 +1,6 @@
-### Hi there 👋
+My personal website is @ https://alexanderschroeder.net/
+
+![Metrics](/github-metrics.svg)
 
 <!--
 **alexschrod/alexschrod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
